@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "jest-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "HiDeo <hideo.sup@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "21.2.1",
+    "pretty-format": "21.2.1"
+  }
+}
